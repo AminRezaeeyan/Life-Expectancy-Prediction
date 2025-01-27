@@ -41,4 +41,3 @@ This repository contains a comprehensive machine learning project to predict lif
 
 ## Contributing
 Contributions are welcome! If you'd like to suggest improvements or report issues, please open an issue or submit a pull request.
-
