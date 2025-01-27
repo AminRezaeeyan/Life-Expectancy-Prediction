@@ -24,12 +24,12 @@ This repository contains a comprehensive machine learning project to predict lif
 
 ### 4. Machine Learning Techniques
 - Explored and compared various models using **Grid Search** and **Cross Validation**, selecting **LightGBM (Gradient Boosting Machine)** as the best-performing model.
-- Achieved **MAE of 1.35**, indicating accurate predictions with minimal error.
+- Achieved **MAE of 1.38**, indicating accurate predictions with minimal error.
 
 ### 5. Key Metrics
-- **MAE (Mean Absolute Error):** 1.3578
-- **MSE (Mean Squared Error):** 3.6853
-- **RMSE (Root Mean Squared Error):** 1.9197
+- **MAE (Mean Absolute Error):** 1.38
+- **MSE (Mean Squared Error):** 3.75
+- **RMSE (Root Mean Squared Error):** 1.93
 
 ---
 ## Future Enhancements
